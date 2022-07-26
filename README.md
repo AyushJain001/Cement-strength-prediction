@@ -1,5 +1,17 @@
 # Cement-strength-prediction
 
+**Problem Statement**-
+
+
+To build a regression model to predict the concrete compressive strength based on the different features in the training data. 
+
+
+*Result*-
+
+
+Model performed well with accuracy greater than 85%.
+
+
 How to Run>>
 
 
