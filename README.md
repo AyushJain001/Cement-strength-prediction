@@ -3,8 +3,16 @@
 **Problem Statement**
 -To build a regression model to predict the concrete compressive strength based on the different features in the training data. 
 
+*Architecture*
 
-*Result*-
+
+![Data Processing Steps](https://user-images.githubusercontent.com/90152799/185467421-c90e526f-eeeb-4e49-8383-b4efb5eaa68e.jpg)
+
+
+
+
+
+*Result-*
 
 
 Model performed well with accuracy greater than 85%.
