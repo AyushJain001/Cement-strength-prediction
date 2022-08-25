@@ -19,7 +19,6 @@ Model performed well with accuracy greater than 85%.
 
 How to Run:
 
-
 1-git init
 
 
@@ -46,6 +45,8 @@ How to Run:
 4) Prediction - Based on the cluster number, the respective model is loaded and is used to predict the data for that cluster.
 5) Once the prediction is made for all the clusters, the predictions along with the original names before label encoder are saved in a CSV file at a given location and the location is returned to the client.
 
+
+Model deployed on cloud platform.
 
 
 
